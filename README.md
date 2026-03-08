@@ -16,8 +16,6 @@ exercise-name/
 
 mycode.py   # My exercice/code I did
       <hr>
-solution.py # The solution of the code
-      <hr>
 about.md    #More info about the exercice
       <hr>
 
@@ -58,6 +56,8 @@ Pattern recognition
 Problem decomposition
 
 More exercises will be added over time as part of continuous practice.
+
+Differents levels.
 
 ## 📌 How to Use
 
